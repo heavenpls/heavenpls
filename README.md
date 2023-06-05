@@ -1,9 +1,8 @@
-### Hi there 👋 
 ### This is Fernando Roldán!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/heavenpls)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+欢迎来到我的GitHub主页
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
@@ -24,8 +23,8 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 	<img width="50%" align="right" src="https://github-readme-stats-caihaiwen.vercel.app/api?username=heavenpls" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://worldvectorlogo.com/zh/download/vue-9.svg"></code>
+<code><img width="10%" src="https://worldvectorlogo.com/zh/download/logo-javascript.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
