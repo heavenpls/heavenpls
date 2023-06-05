@@ -23,8 +23,8 @@
 	<img width="50%" align="right" src="https://github-readme-stats-caihaiwen.vercel.app/api?username=heavenpls" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://worldvectorlogo.com/zh/download/vue-9.svg"></code>
-<code><img width="10%" src="https://worldvectorlogo.com/zh/download/logo-javascript.svg"></code>
+<code><img width="10%" src=""></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
