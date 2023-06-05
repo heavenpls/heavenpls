@@ -7,16 +7,13 @@
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### 🌱 当前在做的事情: 
+- 完善个人博客的配置
+- 完善Arch的个人配置
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### :sunny: 需要提高的：
+- 每天刷三道算法题，提高自己的算法能力
+- 多看书了解Java的底层以及JVM方面的知识
 
 #### :computer: Programming languages and tools: 
 <p>
