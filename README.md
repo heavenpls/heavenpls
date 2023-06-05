@@ -15,7 +15,7 @@
 - 每天刷三道算法题，提高自己的算法能力
 - 多看书了解Java的底层以及JVM方面的知识
 
-#### :computer: Programming languages and tools: 
+#### :computer: 应用程序以及工具: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats-caihaiwen.vercel.app/api?username=heavenpls" />
 
